@@ -140,21 +140,21 @@ wait = {
           💥🔥AUTO ADD FRIEND🔥💥
 
   ❂•••••••SPONSOR•••••••❂
-         https://line.me/R/ti/p/%40iya4481p
+        
    ☆★☆★☆★☆★☆★☆★☆
-        http://line.me/ti/p/~@sml1492z
+        http://line.me/ti/p/~4g202
 
  ❂•••••••COSTUMER•••••••❂
-         http://line.me/ti/p/~@gnh2780p
+         http://line.me/ti/p/~4g202
 """,
     "lang":"JP",
     "comment1":"""{AUTO LIKE BY}
-         https://line.me/R/ti/p/%40iya4481p
+         https://line.me/R/ti/p/4g202
    ☆★☆★☆★☆★☆★☆★☆
-        http://line.me/ti/p/~@sml1492z
+        http://line.me/ti/p/~4g202
 
  ❂•••••••COSTUMER•••••••❂
-         http://line.me/ti/p/~@gnh2780p
+         http://line.me/ti/p/~4g202
 """,
     "commentOn":False,
     "likeOn":True,
@@ -1361,11 +1361,11 @@ def bot(op):
                     cl.sendText(msg.to,"old user")
             elif cms(msg.text,["Add"]):
                 msg.contentType = 13
-                msg.contentMetadata = {'mid': 'u5818cb4404411c2e2e6e6937d172cca8'}
+                msg.contentMetadata = {'mid': 'ued21891fe7a84536b59276e0388b9e97'}
                 cl.sendText(msg.to,"❂•••••••••✧••••••••••❂")
                 cl.sendMessage(msg)
                 msg.contentType = 13
-                msg.contentMetadata = {'mid': 'udfaf52176415b46cb445ae2757ec85f3'}
+                msg.contentMetadata = {'mid': 'ued21891fe7a84536b59276e0388b9e97'}
                 cl.sendMessage(msg)
                 cl.sendText(msg.to,"❂••••••••✰•✰••••••••❂")
             elif "Set album:" in msg.text:
