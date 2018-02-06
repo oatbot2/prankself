@@ -17,7 +17,7 @@ V2.1 last update::
 23/01/2018
 # CONTACT OFFICIAL
 
-<a href="https://line.me/R/ti/p/%40gnh2780p"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
+<a href="https://line.me/R/ti/p/~4g202"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
 
 # LINE ME
 
